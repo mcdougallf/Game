@@ -166,7 +166,7 @@ if x == "":
 x = input()
 if x == "":
 
-        delay_print("yay")
+        delay_print("Next House")
     
 
         
